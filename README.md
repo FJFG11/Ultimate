@@ -5,5 +5,5 @@ Ultimate is a Client and Server anti-exploit for your roblox games and is highly
 **Coming soon**
 
 ## FAQ
-You can report bugs in the support channel under -> https://discord.gg/2SmMSSkmmv
-Check the Issues tab before reporting a bug
+1. You can report bugs in the support channel under -> https://discord.gg/2SmMSSkmmv
+2. Check the Issues tab before reporting a bug
