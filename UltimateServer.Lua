@@ -1,4 +1,10 @@
-local Players = game:GetService("Players")
+
+
+local AntiCheat = {}
+
+function AntiCheat.Start()
+
+	local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local HttpService = game:GetService("HttpService")
 
@@ -227,3 +233,6 @@ RunService.Heartbeat:Connect(function(dt)
 	end
 end)
 
+end
+
+return AntiCheat
