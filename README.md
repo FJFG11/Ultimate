@@ -7,7 +7,8 @@ Ultimate is still in very early beta so be ready for bugs and possible false pos
 2. Insert into roblox studio
 3. Drag the **Main Module** into **ServerScriptService** done!
 
-**If downloaded through ceal**
+**If downloaded through cealshell** 
+
 1. Insert into roblox studio using **cealshell**
 2. Drag the **Main Module** into **ServerScriptService**
 3. Enabled all scripts
