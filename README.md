@@ -28,4 +28,4 @@ Ultimate is still in very early beta so be ready for bugs and possible false pos
 - Ultimate's Ownership is shared between Luxor and FJFG11 by 40% to 60%.
 - Ultimate may be used in your game with no licence as its free.
 - Ultimate may be changed or improved by youself.
-- Ultimate may **NOT** be re-sold and doing so will face in DMCA. 
+- Ultimate may **NOT** be redistributed and doing so will face in DMCA. 
